@@ -10,7 +10,7 @@ baseline1-860.ipynb文件是CCF 个贷违约预测大赛·结构化数据挖掘�
 
 还有余下30多篇baseline代码分享
 
-🎁For the data set of this game, please pay attention to the WeChat public account [KGMking] and find Xiaoyan to collect it
+🎁For the data set of this game, please pay attention to the WeChat public account [KGMking] and find pupil to collect it
 
 本场比赛的数据集请关注公众号【KGMking】找小眼睛领取
 
